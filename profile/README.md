@@ -1,5 +1,5 @@
-## Hi there 👋
-### Chemictionary - Dictionary of Chemistry
+## Chemictionary - Dictionary of Chemistry
+### Hi there 👋
 
 <!--
 
